@@ -1,3 +1,3 @@
 # pawkur.cz
 
-Nasazeno z Danyzell/Agility-trasa (job `nasazeni` v `.github/workflows/testy.yml`, nebo ručně). Neupravovat ručně, změny patří do repozitáře aplikace.
+Nasazeno z Danyzell/Agility-trasa (9bebceb). Neupravovat ručně, změny patří do repozitáře aplikace.
