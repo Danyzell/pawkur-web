@@ -1,3 +1,3 @@
 # pawkur.cz
 
-Nasazeno z Danyzell/Agility-trasa (b4ec219). Neupravovat ručně, změny patří do repozitáře aplikace.
+Nasazeno z Danyzell/Agility-trasa (41ae736). Neupravovat ručně, změny patří do repozitáře aplikace.
